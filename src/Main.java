@@ -55,7 +55,7 @@ public class Main
 
             for(int col = 0; col < countUp; col++)
             {
-                table[row][col] = count;    
+                table[row][col] = count;
                 count++;
             }
             countUp++;
